@@ -1,3 +1,11 @@
+# Learning MLIR from official Samples
+
+add new op conv as an example
+
+blog : https://www.zhihu.com/people/m-m-85-84
+
+
+
 # An out-of-tree MLIR dialect
 
 This is an example of an out-of-tree [MLIR](https://mlir.llvm.org/) dialect along with a standalone `opt`-like tool to operate on that dialect.
