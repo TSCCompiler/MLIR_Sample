@@ -3,6 +3,7 @@
 add new op conv as an example
 
 blog : https://www.zhihu.com/people/m-m-85-84
+toyc-ch1 : https://zhuanlan.zhihu.com/p/543702868
 
 
 
